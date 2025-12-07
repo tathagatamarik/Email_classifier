@@ -1,0 +1,22 @@
+# Core Web Framework
+streamlit==1.39.0
+
+# Data Processing
+pandas==2.2.3
+
+# Excel File Support
+openpyxl==3.1.5
+
+# LLM API Clients
+openai==1.54.5
+anthropic==0.39.0
+
+# Standard Library Dependencies (included with Python, but listed for reference)
+# - re (Regular Expressions)
+# - os (Operating System Interface)
+# - datetime (Date and Time)
+# - io (Core Tools for Working with Streams)
+# - typing (Type Hints Support)
+# - dataclasses (Data Classes)
+# - enum (Enumerations)
+# - json (JSON Encoder/Decoder)
